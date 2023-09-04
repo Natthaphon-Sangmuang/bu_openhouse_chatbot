@@ -1,0 +1,13 @@
+google-cloud-aiplatform==1.25.0
+gradio==3.32.0
+speechrecognition==3.10.0
+pyttsx3==2.90
+
+google-cloud-translate
+google-cloud-texttospeech
+google-cloud-speech
+pyaudio
+sounddevice
+keyboard
+scipy
+playsound
